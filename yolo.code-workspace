@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../yolov8/images"
+		},
+		{
+			"path": "plastic"
+		}
+	],
+	"settings": {}
+}
